@@ -222,11 +222,20 @@ https://github.com/AyushSharma67/signal-clone
 
 
 
-\## Deployment
+## Deployment
 
+### Live Application
 
+https://signal-clone-beta-five.vercel.app
 
-Deployment/demo link will be added here after deployment.
+### Backend API
+
+https://signal-clone-i487.onrender.com
+
+## Repository
+
+https://github.com/AyushSharma67/signal-clone
+
 
 
 
