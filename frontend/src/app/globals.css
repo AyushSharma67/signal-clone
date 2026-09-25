@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+/* Form readability */
+input,
+textarea,
+select {
+  color: #111827 !important;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: #6b7280 !important;
+  opacity: 1 !important;
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+  color: #111827 !important;
+}
+
+input:-webkit-autofill {
+  -webkit-text-fill-color: #111827 !important;
+}
